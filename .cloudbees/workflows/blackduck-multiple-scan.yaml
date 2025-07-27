@@ -2,12 +2,8 @@ apiVersion: automation.cloudbees.io/v1alpha1
 kind: workflow
 name: Dispatch multiple workflows
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: 30 3 * * *
-    - cron: 30 10 * * *
   workflow_dispatch:
 jobs:
   dispatch-workflows:
