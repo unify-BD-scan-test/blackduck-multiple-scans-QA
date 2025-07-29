@@ -1,24 +1,24 @@
 [
   {
-    "component_id": "46aeb29a-b5b6-487f-a217-100267851ced",
+    "component_id": "ef0f552c-eac9-45e8-8f40-023acc971f59",
     "branch_name": "main",
     "workflow_file_name": "main-cppCodebase.yaml",
     "ignore_failures": true
   },
   {
-    "component_id": "ffe78333-d7bb-43eb-9a5e-fb77b42170ba",
+    "component_id": "ef0f552c-eac9-45e8-8f40-023acc971f59",
     "branch_name": "main",
     "workflow_file_name": "main-goCodebase.yaml",
     "ignore_failures": true
   },
   {
-    "component_id": "2e06b6d2-a0c9-45f3-8f79-18fe0476f313/",
+    "component_id": "ef0f552c-eac9-45e8-8f40-023acc971f59",
     "branch_name": "main",
     "workflow_file_name": "main-javaCodebase.yaml",
     "ignore_failures": true
   },
   {
-    "component_id": "592b5328-5bcd-4373-8d1f-3cada62f673c",
+    "component_id": "ef0f552c-eac9-45e8-8f40-023acc971f59",
     "branch_name": "main",
     "workflow_file_name": "master-mixedCodebase.yaml",
     "ignore_failures": true
