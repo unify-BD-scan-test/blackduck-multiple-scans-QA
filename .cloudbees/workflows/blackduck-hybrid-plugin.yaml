@@ -3,7 +3,7 @@ kind: workflow
 name: Dispatch multiple workflows
 on:
   schedule:
-    - cron: 30 3 * * 1-5
+    - cron: 40 19 * * 1-5
   workflow_dispatch:
 jobs:
   dispatch-workflows:
