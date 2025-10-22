@@ -4,7 +4,6 @@ name: Dispatch multiple workflows
 on:
   schedule:
     - cron: 40 19 * * 1-5
-  workflow_dispatch:
 jobs:
   dispatch-workflows:
     steps:
